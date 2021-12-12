@@ -1,11 +1,11 @@
 # Site settings
-title: David Hay Portfolio
-email:
+title: 'David Hay Portfolio'
+email: ''
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+medium_username: 'data-marketing-philosophy'
 github_username: 'hayitsdavid'
 
 # Build settings
